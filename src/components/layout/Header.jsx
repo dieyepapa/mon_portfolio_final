@@ -34,7 +34,7 @@ const Header = () => {
           {/* Logo */}
           <a
             href="#home"
-            className="font-display text-[20px] font-bold tracking-wide text-[#2C2825] no-underline"
+            className="font-display text-[20px] font-bold tracking-wide text-[#e8eaee] no-underline"
           >
             &lt;<span style={{ color: '#3b82f6' }}>AD</span>/&gt;
           </a>
