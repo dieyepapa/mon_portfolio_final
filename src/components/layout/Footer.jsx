@@ -18,7 +18,7 @@ export const Footer = () => {
         </span>
         <span
           className="text-[11px] uppercase tracking-[2px]"
-          style={{ color: '#55524c' }}
+          style={{ color: 'rgb(240, 244, 245)' }}
         >
           © {year} Abdoulaye DIEYE
         </span>
@@ -38,9 +38,9 @@ export const Footer = () => {
             rel="noopener noreferrer"
             title={s.label}
             className="w-8 h-8 flex items-center justify-center rounded-[2px] no-underline transition-all duration-200"
-            style={{ color: '#55524c' }}
-            onMouseEnter={e => e.currentTarget.style.color = '#c9a84c'}
-            onMouseLeave={e => e.currentTarget.style.color = '#55524c'}
+            style={{ color: 'hsl(203, 32%, 92%)' }}
+            onMouseEnter={e => e.currentTarget.style.color = 'rgb(76, 176, 201)'}
+            onMouseLeave={e => e.currentTarget.style.color = 'hsl(195, 100%, 98%)'}
           >
             {s.icon}
           </a>

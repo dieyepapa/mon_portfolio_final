@@ -49,8 +49,8 @@ export default function Hero() {
             <p className="a4 mb-5 text-[15px] font-light leading-relaxed max-w-xl mx-auto lg:mx-0" style={{ color: 'var(--text-muted)' }}>
               Passionné par les technologies innovantes, je transforme des idées en solutions
               robustes et scalables. Spécialisé en{' '}
-              <span style={{ color: 'var(--blue-light)' }}>Python, Spring Boot, React, Flutter</span>{' '}
-              et Intelligence Artificielle.
+              <span style={{ color: 'var(--blue-light)' }}>Intelligence Artificielle</span>{' '}
+              et Systeme d'Information.
             </p>
 
             {/* Meta */}
